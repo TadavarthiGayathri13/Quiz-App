@@ -121,11 +121,11 @@ body {
 
 .total-question, .score {
     color: #7f8c8d;
-    font-size: 1.2rem; /* Increased font size for score */
+    font-size: 1.2rem;
 }
 
 .quiz-over .final_score {
-    font-size: 3rem; /* Increased font size for final score */
+    font-size: 3rem; 
     color: #27ae60;
 }
 
